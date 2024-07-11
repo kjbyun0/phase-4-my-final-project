@@ -20,10 +20,11 @@ The frontend application is developed using react and semantic ui react, and the
 ## Demo
 ![](https://github.com/kjbyun0/phase-4-my-final-project/blob/main/ForREADME.gif)
 
+Video Walkthrough: [https://youtu.be/ShKZwjX9hTc](https://youtu.be/ShKZwjX9hTc)
+
 ## Credits
 I reviewed linkedin, indeed, and glassdoor and applied some of their page designs.
 
 ### Deployment
-- Frontend: [https://p4-project.onrender.com/](https://p4-project.onrender.com/)
-- Backend: [https://kjbyun0-phase2-backend.onrender.com](https://kjbyun0-phase2-backend.onrender.com) + add a path 
+[https://flatiron-phase4-project-apis.onrender.com](https://flatiron-phase4-project-apis.onrender.com)
 
